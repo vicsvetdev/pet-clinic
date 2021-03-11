@@ -1,6 +1,5 @@
 com\vicsvetdev\petclinic\model\Owner.class
 com\vicsvetdev\petclinic\model\Person.class
-com\vicsvetdev\petclinic\model\Temp.class
 com\vicsvetdev\petclinic\model\Vet.class
 com\vicsvetdev\petclinic\model\Pet.class
 com\vicsvetdev\petclinic\model\PetType.class

@@ -1,1 +1,5 @@
+com\vicsvetdev\petclinic\controllers\OwnerController.class
+com\vicsvetdev\petclinic\controllers\IndexController.class
 com\vicsvetdev\petclinic\PetClinicApplication.class
+com\vicsvetdev\petclinic\bootstrap\DataLoader.class
+com\vicsvetdev\petclinic\controllers\VetController.class

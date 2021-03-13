@@ -1,5 +1,14 @@
-com\vicsvetdev\petclinic\model\Owner.class
-com\vicsvetdev\petclinic\model\Person.class
+com\vicsvetdev\petclinic\services\map\AbstractMapService.class
+com\vicsvetdev\petclinic\services\VetService.class
+com\vicsvetdev\petclinic\services\CrudService.class
+com\vicsvetdev\petclinic\services\map\PetServiceMap.class
+com\vicsvetdev\petclinic\services\OwnerService.class
+com\vicsvetdev\petclinic\services\map\VetServiceMap.class
+com\vicsvetdev\petclinic\services\map\OwnerServiceMap.class
 com\vicsvetdev\petclinic\model\Vet.class
 com\vicsvetdev\petclinic\model\Pet.class
+com\vicsvetdev\petclinic\model\BaseEntity.class
+com\vicsvetdev\petclinic\model\Owner.class
+com\vicsvetdev\petclinic\model\Person.class
+com\vicsvetdev\petclinic\services\PetService.class
 com\vicsvetdev\petclinic\model\PetType.class

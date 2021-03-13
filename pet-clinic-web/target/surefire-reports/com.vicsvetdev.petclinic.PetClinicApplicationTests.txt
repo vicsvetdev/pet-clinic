@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.vicsvetdev.petclinic.PetClinicApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.73 s - in com.vicsvetdev.petclinic.PetClinicApplicationTests
